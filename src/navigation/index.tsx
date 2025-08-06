@@ -1,8 +1,7 @@
-// src/navigation/index.tsx
 import { NavigationContainer } from '@react-navigation/native';
 import { createNativeStackNavigator } from '@react-navigation/native-stack';
 import HomeScreen from '../screens/HomeScreen';
-import AddItemScreen from '../screens/AddItemScreen'; // criaremos depois
+import AddItemScreen from '../screens/AddItemScreen';
 
 const Stack = createNativeStackNavigator();
 

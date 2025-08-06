@@ -1,4 +1,3 @@
-// src/components/ItemCard.tsx
 import { View, Text, StyleSheet, TouchableOpacity } from 'react-native';
 import Checkbox from 'expo-checkbox';
 import { Item } from '../types/item';
