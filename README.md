@@ -2,8 +2,6 @@
 
 Aplicativo de Lista de Compras desenvolvido com **React Native + Expo**, com persistência local usando `AsyncStorage`.
 
-> Este projeto faz parte de um teste técnico, avaliando navegação, gerenciamento de estado, componentização, UX e armazenamento offline.
-
 ---
 
 ## 🚀 Funcionalidades
@@ -44,16 +42,6 @@ src/
 └── types/              # Tipagens e modelos
     └── item.ts
 ```
-
----
-
-## 📱 Preview
-
-| Lista de Compras | Adicionar Item |
-|------------------|----------------|
-| ![home](https://via.placeholder.com/200x400?text=Home+Screen) | ![add](https://via.placeholder.com/200x400?text=Add+Item+Screen) |
-
-> (Substituir por prints reais depois)
 
 ---
 
