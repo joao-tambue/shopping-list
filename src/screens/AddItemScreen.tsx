@@ -34,7 +34,7 @@ export default function AddItemScreen() {
       <Text style={styles.label}> Product Name </Text>
       <TextInput
         style={styles.input}
-        placeholder='Ex: Notepade'
+        placeholder='Ex: Mouse'
         value={name}
         onChangeText={setName}
        />
